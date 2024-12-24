@@ -1,0 +1,12 @@
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\bin\Debug\lab04.exe.config
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\bin\Debug\lab04.exe
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\bin\Debug\lab04.pdb
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.Properties.Resources.resources
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.csproj.GenerateResource.cache
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.exe
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.pdb
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.Add.resources
+C:\Users\Евгений\Desktop\Visualka_projects\lab04\obj\Debug\lab04.FormMain.resources
+C:\Users\Евгений\Desktop\Visualka_projects\Lab04\obj\Debug\lab04.Edit.resources

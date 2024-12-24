@@ -1,0 +1,45 @@
+<Animal>
+  <Cat>
+    <Cats>
+      <name>VASYAN</name>
+      <color>BLUE</color>
+      <age>192234</age>
+      <breed>DVORNYAGA</breed>
+      <weight>100</weight>
+    </Cats>
+    <Cats>
+      <name>MURZIK</name>
+      <color>BLACK</color>
+      <age>10</age>
+      <breed>CHOTKIY PAZIK</breed>
+      <weight>4</weight>
+    </Cats>
+    <Cats>
+      <name>rg</name>
+      <color>fdv</color>
+      <age>2</age>
+      <breed>erg</breed>
+      <weight>4</weight>
+    </Cats>
+  </Cat>
+  <Bird>
+    <Birds>
+      <kind>VOROBEY</kind>
+      <color>BROWN</color>
+      <wingspan>20</wingspan>
+      <weight>1</weight>
+    </Birds>
+    <Birds>
+      <kind>GOLUB'</kind>
+      <color>curlik</color>
+      <wingspan>10</wingspan>
+      <weight>100000000</weight>
+    </Birds>
+    <Birds>
+      <kind>rebs</kind>
+      <color>erg</color>
+      <wingspan>33</wingspan>
+      <weight>44</weight>
+    </Birds>
+  </Bird>
+</Animal>

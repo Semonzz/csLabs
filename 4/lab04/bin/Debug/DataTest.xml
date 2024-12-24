@@ -1,0 +1,30 @@
+<Animal>
+  <Cat>
+    <Cats>
+      <name>VASYAN</name>
+      <color>BLUE</color>
+      <age>192234</age>
+      <breed>DVORNYAGA</breed>
+      <weight>11</weight>
+    </Cats>
+    <Cats>
+      <name>MURZIK</name>
+      <color>BLACK</color>
+      <age>10</age>
+      <breed>CHOTKIY PAZIK</breed>
+      <weight>4</weight>
+    </Cats>
+    <Cats>
+      <kind>VOROBEY</kind>
+      <color>BROWN</color>
+      <wingspan>20</wingspan>
+      <weight>1</weight>
+    </Cats>
+    <Cats>
+      <kind>GOLUB'</kind>
+      <color>curlik</color>
+      <wingspan>10</wingspan>
+      <weight>100000000</weight>
+    </Cats>
+  </Cat>
+</Animal>
